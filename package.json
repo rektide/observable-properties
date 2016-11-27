@@ -1,0 +1,24 @@
+{
+	"name": "observable-properties",
+	"version": "1.0.0",
+	"description": "Create wrappers for existing properties that make reads/writes observable.",
+	"main": "observable-properties.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"observable",
+		"streams"
+	],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"get-property-descriptor": "^1.1.0",
+		"most-subject": "^5.2.0"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/rektide"
+	}
+}
